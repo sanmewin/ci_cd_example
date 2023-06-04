@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585044339596",
+    "project_id": "cicdexample-9b249",
+    "storage_bucket": "cicdexample-9b249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585044339596:android:19d5e26086b860851444a9",
+        "android_client_info": {
+          "package_name": "com.example.ci_cd_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585044339596-712p0g0ifp8htrq1badf0urmbnu36bem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4qKLEoyumKRrDgOW02gd2M2opZ-qs_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585044339596-712p0g0ifp8htrq1badf0urmbnu36bem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
